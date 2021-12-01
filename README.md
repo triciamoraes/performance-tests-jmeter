@@ -27,5 +27,5 @@ In order to deploy the endpoint simply run
 serverless deploy
 ```
 
-## For information on how to run performance tests go to: test/performance/infrastructure/README.md
+## For information on how to run the performance tests go to: test/performance/infrastructure/README.md
 
