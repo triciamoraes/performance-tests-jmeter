@@ -8,14 +8,14 @@ This is a simple lambda code associated with API Gateway endpoint that calls the
 
 ## Getting Started 
 
-### Pré-requisitos
+### Before setup
 
 Before starting, you will need to have the following tools installed on your machine::
 [Git](https://git-scm.com), 
 [Node.js](https://nodejs.org/en/). 
 
 
-### Instale as dependências
+### Install dependencies
 $ npm install
 
 
