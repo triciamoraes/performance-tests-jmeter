@@ -1,0 +1,34 @@
+{
+  "List Starships Request" : {
+    "transaction" : "List Starships Request",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1047.5,
+    "medianResTime" : 892.0,
+    "minResTime" : 765.0,
+    "maxResTime" : 1641.0,
+    "pct1ResTime" : 1641.0,
+    "pct2ResTime" : 1641.0,
+    "pct3ResTime" : 1641.0,
+    "throughput" : 0.9429514380009429,
+    "receivedKBytesPerSec" : 5.844641383781235,
+    "sentKBytesPerSec" : 0.1998246699669967
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1047.5,
+    "medianResTime" : 892.0,
+    "minResTime" : 765.0,
+    "maxResTime" : 1641.0,
+    "pct1ResTime" : 1641.0,
+    "pct2ResTime" : 1641.0,
+    "pct3ResTime" : 1641.0,
+    "throughput" : 0.9429514380009429,
+    "receivedKBytesPerSec" : 5.844641383781235,
+    "sentKBytesPerSec" : 0.1998246699669967
+  }
+}
